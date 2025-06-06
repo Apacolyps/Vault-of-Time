@@ -1,0 +1,46 @@
+{
+  "id": "vault-of-time",
+  "title": "Vault of Time",
+  "version": "1.0.0",
+  "manifest": "",
+  "download": "",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "This is a journey into the temple of Labelas Enorath, the elven god of time. Journey to a temple overrun with goblinoids and a mysterious blue pulsing light that scatters across the forest.\n\nA nearby village is afraid and tasks our grand adventurers to thwart this threat, for coin of course. Upon getting to the source of this threat, the heroes will find there is more beneath the surface. Their actions also have a substantial impact on the outcome. Maybe they save the temple or maybe they don't. Maybe they get the help of the forgotten souls left behind, or maybe they make some new enemies.\n\nThis adventure has a heavy emphasis on time magic and goes into the lore on why time travel is banned. This features a magic item able to disrupt the flow of time but at a cost. Be careful when messing with the natural flow of the world.\n\nNote: This adventure is designed to fit in the Forgotten Realms. The references to this are the god of time and the village is located within Cormanthor. Simply replace these with your god and any forest to make it setting agnostic.",
+  "authors": [
+    {
+      "name": "Zrave",
+      "flags": {}
+    },
+    {
+      "name": "Apacolyps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.dmsguild.com/product/449761/Vault-of-Time--A-TimeBending-Adventure",
+  "packs": [
+    {
+      "name": "vault-of-time",
+      "label": "Vault of Time",
+      "path": "packs/vault-of-time",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+2025/06/06-15:15:18.839 8ee4 Recovering log #8
+2025/06/06-15:15:18.842 8ee4 Delete type=0 #8
+2025/06/06-15:15:18.842 8ee4 Delete type=3 #6
+2025/06/06-15:15:41.834 8368 Level-0 table #13: started
+2025/06/06-15:15:41.834 8368 Level-0 table #13: 0 bytes OK
+2025/06/06-15:15:41.836 8368 Delete type=0 #11
+2025/06/06-15:15:41.836 8368 Manual compaction at level-0 from '!adventures!GcMVurHpXN6NKQxH' @ 72057594037927935 : 1 .. '!adventures!GcMVurHpXN6NKQxH' @ 0 : 0; will stop at (end)
+2025/06/06-15:15:41.836 8368 Manual compaction at level-1 from '!adventures!GcMVurHpXN6NKQxH' @ 72057594037927935 : 1 .. '!adventures!GcMVurHpXN6NKQxH' @ 0 : 0; will stop at (end)
